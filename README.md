@@ -47,3 +47,6 @@ Furthermore, looking at the t-test results performed for each individual lot as 
 
 *Lot 3*
 ![Lot 3]()
+
+## Study Design: MechaCar vs Competitionj
+
